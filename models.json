@@ -98,30 +98,6 @@
       "parent": null
     },
     {
-      "id": "code-davinci-001",
-      "object": "model",
-      "created": 1650068177,
-      "owned_by": "openai",
-      "permission": [
-        {
-          "id": "modelperm-XqDZYf6rOWJokBJkRmv0V1qT",
-          "object": "model_permission",
-          "created": 1656038904,
-          "allow_create_engine": false,
-          "allow_sampling": false,
-          "allow_logprobs": false,
-          "allow_search_indices": false,
-          "allow_view": false,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "code-davinci-001",
-      "parent": null
-    },
-    {
       "id": "text-ada-001",
       "object": "model",
       "created": 1649364042,
@@ -743,6 +719,30 @@
         }
       ],
       "root": "text-davinci-001",
+      "parent": null
+    },
+    {
+      "id": "code-davinci-001",
+      "object": "model",
+      "created": 1650068177,
+      "owned_by": "openai",
+      "permission": [
+        {
+          "id": "modelperm-q1fS2zxIUoISuBPFl75ufMYS",
+          "object": "model_permission",
+          "created": 1657747690,
+          "allow_create_engine": false,
+          "allow_sampling": false,
+          "allow_logprobs": false,
+          "allow_search_indices": false,
+          "allow_view": false,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "code-davinci-001",
       "parent": null
     },
     {
