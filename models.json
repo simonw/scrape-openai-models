@@ -2,30 +2,6 @@
   "object": "list",
   "data": [
     {
-      "id": "text-davinci-002",
-      "object": "model",
-      "created": 1649880484,
-      "owned_by": "openai",
-      "permission": [
-        {
-          "id": "modelperm-vOEb19FFOLfIZy8y1GZipaze",
-          "object": "model_permission",
-          "created": 1657647746,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": false,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "text-davinci-002",
-      "parent": null
-    },
-    {
       "id": "text-ada-001",
       "object": "model",
       "created": 1649364042,
@@ -74,30 +50,6 @@
       "parent": null
     },
     {
-      "id": "ada",
-      "object": "model",
-      "created": 1649357491,
-      "owned_by": "openai",
-      "permission": [
-        {
-          "id": "modelperm-XAnHLevUJ5rIPkXK5yewbwxR",
-          "object": "model_permission",
-          "created": 1656664992,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": false,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "ada",
-      "parent": null
-    },
-    {
       "id": "code-davinci-edit-001",
       "object": "model",
       "created": 1649880484,
@@ -119,30 +71,6 @@
         }
       ],
       "root": "code-davinci-edit-001",
-      "parent": null
-    },
-    {
-      "id": "code-cushman-001",
-      "object": "model",
-      "created": 1656081837,
-      "owned_by": "openai",
-      "permission": [
-        {
-          "id": "modelperm-L4ihPVWBEuvVa4sXT1yg9eRQ",
-          "object": "model_permission",
-          "created": 1656081837,
-          "allow_create_engine": false,
-          "allow_sampling": false,
-          "allow_logprobs": false,
-          "allow_search_indices": false,
-          "allow_view": false,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "code-cushman-001",
       "parent": null
     },
     {
@@ -266,15 +194,15 @@
       "parent": null
     },
     {
-      "id": "code-davinci-002",
+      "id": "code-davinci-001",
       "object": "model",
-      "created": 1649880485,
+      "created": 1650068177,
       "owned_by": "openai",
       "permission": [
         {
-          "id": "modelperm-7SZdb86MQpQqGSRBz7sAW2MO",
+          "id": "modelperm-UnJVzkAA1Ajx3nE0E7xIq45B",
           "object": "model_permission",
-          "created": 1656378814,
+          "created": 1659026775,
           "allow_create_engine": false,
           "allow_sampling": false,
           "allow_logprobs": false,
@@ -286,7 +214,31 @@
           "is_blocking": false
         }
       ],
-      "root": "code-davinci-002",
+      "root": "code-davinci-001",
+      "parent": null
+    },
+    {
+      "id": "text-davinci-002",
+      "object": "model",
+      "created": 1649880484,
+      "owned_by": "openai",
+      "permission": [
+        {
+          "id": "modelperm-sAgyvL0DeIrVWURovZpkzCZR",
+          "object": "model_permission",
+          "created": 1659043729,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "text-davinci-002",
       "parent": null
     },
     {
@@ -770,6 +722,30 @@
       "parent": null
     },
     {
+      "id": "code-cushman-001",
+      "object": "model",
+      "created": 1656081837,
+      "owned_by": "openai",
+      "permission": [
+        {
+          "id": "modelperm-nqodbdf8GJXLLIEoQoflQjd3",
+          "object": "model_permission",
+          "created": 1659026774,
+          "allow_create_engine": false,
+          "allow_sampling": false,
+          "allow_logprobs": false,
+          "allow_search_indices": false,
+          "allow_view": false,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "code-cushman-001",
+      "parent": null
+    },
+    {
       "id": "text-similarity-babbage-001",
       "object": "model",
       "created": 1651172505,
@@ -962,15 +938,39 @@
       "parent": null
     },
     {
-      "id": "code-davinci-001",
+      "id": "ada",
       "object": "model",
-      "created": 1650068177,
+      "created": 1649357491,
       "owned_by": "openai",
       "permission": [
         {
-          "id": "modelperm-Bm0xH8qNmvdoy05wkLJmbFrQ",
+          "id": "modelperm-dfADc2qnXg8SH9APkImH2VSM",
           "object": "model_permission",
-          "created": 1657828734,
+          "created": 1659034049,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "ada",
+      "parent": null
+    },
+    {
+      "id": "code-davinci-002",
+      "object": "model",
+      "created": 1649880485,
+      "owned_by": "openai",
+      "permission": [
+        {
+          "id": "modelperm-vEVEPaJri0oioR73p3zgWmdn",
+          "object": "model_permission",
+          "created": 1659026775,
           "allow_create_engine": false,
           "allow_sampling": false,
           "allow_logprobs": false,
@@ -982,7 +982,7 @@
           "is_blocking": false
         }
       ],
-      "root": "code-davinci-001",
+      "root": "code-davinci-002",
       "parent": null
     },
     {
