@@ -242,6 +242,54 @@
       "parent": null
     },
     {
+      "id": "text-similarity-curie-001",
+      "object": "model",
+      "created": 1651172507,
+      "owned_by": "openai-dev",
+      "permission": [
+        {
+          "id": "modelperm-iw7X2nAf7tHiEh5c9YYW39ef",
+          "object": "model_permission",
+          "created": 1660539924,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": true,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "text-similarity-curie-001",
+      "parent": null
+    },
+    {
+      "id": "curie-similarity-fast",
+      "object": "model",
+      "created": 1651172507,
+      "owned_by": "openai-dev",
+      "permission": [
+        {
+          "id": "modelperm-UXGMeIxHF2Dd6DOeuhPz3QZP",
+          "object": "model_permission",
+          "created": 1660539924,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": true,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "curie-similarity-fast",
+      "parent": null
+    },
+    {
       "id": "babbage-search-query",
       "object": "model",
       "created": 1651172509,
@@ -287,6 +335,30 @@
         }
       ],
       "root": "text-search-babbage-doc-001",
+      "parent": null
+    },
+    {
+      "id": "curie-similarity",
+      "object": "model",
+      "created": 1651172510,
+      "owned_by": "openai-dev",
+      "permission": [
+        {
+          "id": "modelperm-woQ5CYVZ384juczxcvMLjqcG",
+          "object": "model_permission",
+          "created": 1660539924,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": true,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "curie-similarity",
       "parent": null
     },
     {
@@ -914,54 +986,6 @@
       "parent": null
     },
     {
-      "id": "curie-similarity-fast",
-      "object": "model",
-      "created": 1651172507,
-      "owned_by": "openai-dev",
-      "permission": [
-        {
-          "id": "modelperm-1GVYqTeQ097e6a97lCOIq3pc",
-          "object": "model_permission",
-          "created": 1660336783,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": true,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "curie-similarity-fast",
-      "parent": null
-    },
-    {
-      "id": "curie-similarity",
-      "object": "model",
-      "created": 1651172510,
-      "owned_by": "openai-dev",
-      "permission": [
-        {
-          "id": "modelperm-YJigry8cyTbcUn4VDy7zstrT",
-          "object": "model_permission",
-          "created": 1660336783,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": true,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "curie-similarity",
-      "parent": null
-    },
-    {
       "id": "text-similarity-ada-001",
       "object": "model",
       "created": 1651172505,
@@ -1127,30 +1151,6 @@
         }
       ],
       "root": "text-search-curie-query-001",
-      "parent": null
-    },
-    {
-      "id": "text-similarity-curie-001",
-      "object": "model",
-      "created": 1651172507,
-      "owned_by": "openai-dev",
-      "permission": [
-        {
-          "id": "modelperm-M7l2IlmVsN6CnXQRzWOil9ZI",
-          "object": "model_permission",
-          "created": 1660336783,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": true,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "text-similarity-curie-001",
       "parent": null
     },
     {
