@@ -194,6 +194,30 @@
       "parent": null
     },
     {
+      "id": "text-curie-001",
+      "object": "model",
+      "created": 1649364043,
+      "owned_by": "openai",
+      "permission": [
+        {
+          "id": "modelperm-4xXkkRKNpa8eGBCJhRZBnkeR",
+          "object": "model_permission",
+          "created": 1662516209,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "text-curie-001",
+      "parent": null
+    },
+    {
       "id": "davinci-search-document",
       "object": "model",
       "created": 1651172509,
@@ -1127,30 +1151,6 @@
         }
       ],
       "root": "text-search-curie-query-001",
-      "parent": null
-    },
-    {
-      "id": "text-curie-001",
-      "object": "model",
-      "created": 1649364043,
-      "owned_by": "openai",
-      "permission": [
-        {
-          "id": "modelperm-GiEr5ItJHMOGQjp5ODQlbZvM",
-          "object": "model_permission",
-          "created": 1660336783,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": false,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "text-curie-001",
       "parent": null
     },
     {
