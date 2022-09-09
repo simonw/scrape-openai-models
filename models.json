@@ -266,30 +266,6 @@
       "parent": null
     },
     {
-      "id": "curie-similarity-fast",
-      "object": "model",
-      "created": 1651172507,
-      "owned_by": "openai-dev",
-      "permission": [
-        {
-          "id": "modelperm-UXGMeIxHF2Dd6DOeuhPz3QZP",
-          "object": "model_permission",
-          "created": 1660539924,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": true,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "curie-similarity-fast",
-      "parent": null
-    },
-    {
       "id": "babbage-search-query",
       "object": "model",
       "created": 1651172509,
@@ -359,30 +335,6 @@
         }
       ],
       "root": "curie-similarity",
-      "parent": null
-    },
-    {
-      "id": "text-davinci-002",
-      "object": "model",
-      "created": 1649880484,
-      "owned_by": "openai",
-      "permission": [
-        {
-          "id": "modelperm-U33cJ3HnDSn2uUdgMlOk1DLX",
-          "object": "model_permission",
-          "created": 1661468082,
-          "allow_create_engine": false,
-          "allow_sampling": true,
-          "allow_logprobs": true,
-          "allow_search_indices": false,
-          "allow_view": true,
-          "allow_fine_tuning": false,
-          "organization": "*",
-          "group": null,
-          "is_blocking": false
-        }
-      ],
-      "root": "text-davinci-002",
       "parent": null
     },
     {
@@ -1175,6 +1127,30 @@
         }
       ],
       "root": "text-davinci-edit-001",
+      "parent": null
+    },
+    {
+      "id": "text-davinci-002",
+      "object": "model",
+      "created": 1649880484,
+      "owned_by": "openai",
+      "permission": [
+        {
+          "id": "modelperm-hSac65lBxFBH0yU7tzdzNWxY",
+          "object": "model_permission",
+          "created": 1662683430,
+          "allow_create_engine": false,
+          "allow_sampling": true,
+          "allow_logprobs": true,
+          "allow_search_indices": false,
+          "allow_view": true,
+          "allow_fine_tuning": false,
+          "organization": "*",
+          "group": null,
+          "is_blocking": false
+        }
+      ],
+      "root": "text-davinci-002",
       "parent": null
     },
     {
