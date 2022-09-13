@@ -21,7 +21,8 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |-
-        curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY" | jq > models.json
+        curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY" \
+          | jq '.data | sort_by(.id)' > models.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
