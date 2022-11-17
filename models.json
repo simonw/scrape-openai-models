@@ -390,9 +390,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-7how6IgkOX6csWSwYtTGVG9T",
+        "id": "modelperm-EfRK0qyy4vPODSkXkpgyorqg",
         "object": "model_permission",
-        "created": 1667578926,
+        "created": 1668636313,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
@@ -414,9 +414,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-HOdxrS0u20vBjGHI2k1xrapL",
+        "id": "modelperm-XMYgRDJMIuCwfocyWdWT1Frk",
         "object": "model_permission",
-        "created": 1667582459,
+        "created": 1668636883,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
@@ -438,9 +438,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-Z88Dwypx5ZpA7hE6M0a3SCo1",
+        "id": "modelperm-I7qa26mD2b01beMx4s0H1PV6",
         "object": "model_permission",
-        "created": 1667582459,
+        "created": 1668641394,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1158,9 +1158,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-tbLcCObgN34VCRgn4UcLbguF",
+        "id": "modelperm-n7MZleu5Jkl24xATZqLMc7f1",
         "object": "model_permission",
-        "created": 1667582461,
+        "created": 1668648344,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1182,9 +1182,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-KLj8Q5MQ8j9fd2shTCOOQRdM",
+        "id": "modelperm-U3kQyrK6RU7lE9OZlNtHQ4PV",
         "object": "model_permission",
-        "created": 1667582459,
+        "created": 1668641394,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1206,9 +1206,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-5jxkXRWPzuq6YY2ZeczqE215",
+        "id": "modelperm-8mnGyTqJ0bcAoIcMILcmtqDa",
         "object": "model_permission",
-        "created": 1667582459,
+        "created": 1668641394,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1230,9 +1230,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-6srxJbxNClVbzcdi0kqlxqKv",
+        "id": "modelperm-3XGIvbiTQGVM3z7qom1RZZGV",
         "object": "model_permission",
-        "created": 1667582459,
+        "created": 1668641394,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
