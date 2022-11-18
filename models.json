@@ -366,14 +366,14 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-jvJ6Xk8buEl0VDFX5gwJdLp9",
+        "id": "modelperm-v0PcmRDeRLrHXdSbZh6ipHBv",
         "object": "model_permission",
-        "created": 1664346874,
+        "created": 1668724260,
         "allow_create_engine": false,
-        "allow_sampling": false,
-        "allow_logprobs": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
         "allow_search_indices": false,
-        "allow_view": false,
+        "allow_view": true,
         "allow_fine_tuning": false,
         "organization": "*",
         "group": null,
@@ -384,44 +384,20 @@
     "parent": null
   },
   {
-    "id": "code-davinci-001",
-    "object": "model",
-    "created": 1650068177,
-    "owned_by": "openai",
-    "permission": [
-      {
-        "id": "modelperm-EfRK0qyy4vPODSkXkpgyorqg",
-        "object": "model_permission",
-        "created": 1668636313,
-        "allow_create_engine": false,
-        "allow_sampling": false,
-        "allow_logprobs": false,
-        "allow_search_indices": false,
-        "allow_view": false,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "code-davinci-001",
-    "parent": null
-  },
-  {
     "id": "code-davinci-002",
     "object": "model",
     "created": 1649880485,
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-XMYgRDJMIuCwfocyWdWT1Frk",
+        "id": "modelperm-5nz03jHOmxeKVzdOs8uSbO1l",
         "object": "model_permission",
-        "created": 1668636883,
+        "created": 1668733458,
         "allow_create_engine": false,
-        "allow_sampling": false,
-        "allow_logprobs": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
         "allow_search_indices": false,
-        "allow_view": false,
+        "allow_view": true,
         "allow_fine_tuning": false,
         "organization": "*",
         "group": null,
@@ -726,9 +702,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-Ewuvf5etxq06TozltgoaZ7gH",
+        "id": "modelperm-84G5pXrZFyj4AKCYq5AD3zcq",
         "object": "model_permission",
-        "created": 1664351223,
+        "created": 1668727706,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1134,9 +1110,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-MvTj8KLFdp5D24iGFdz8NIMj",
+        "id": "modelperm-yU8j4u73mXR49O7L38QgurNN",
         "object": "model_permission",
-        "created": 1664351459,
+        "created": 1668730237,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1158,9 +1134,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-n7MZleu5Jkl24xATZqLMc7f1",
+        "id": "modelperm-9TIbOx05ggqObnFEcPWHSMmS",
         "object": "model_permission",
-        "created": 1668648344,
+        "created": 1668713038,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
