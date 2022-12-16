@@ -390,9 +390,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-0nYerYB9CGacUm6ruEqzNiQ4",
+        "id": "modelperm-pQ3E9F1SetfXZAtBUJQ1NHHT",
         "object": "model_permission",
-        "created": 1670635824,
+        "created": 1671137883,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1269,6 +1269,30 @@
       }
     ],
     "root": "text-davinci:001",
+    "parent": null
+  },
+  {
+    "id": "text-embedding-ada-002",
+    "object": "model",
+    "created": 1671046867,
+    "owned_by": "openai-internal",
+    "permission": [
+      {
+        "id": "modelperm-AYKmX7SS6DCCEslfPDDi5F3W",
+        "object": "model_permission",
+        "created": 1671124753,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": true,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "text-embedding-ada-002",
     "parent": null
   },
   {
