@@ -390,9 +390,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-2jmd1QDwZwsESpGZh7c9Ixz2",
+        "id": "modelperm-corXK4MkV0WIGh383a6rE0Qb",
         "object": "model_permission",
-        "created": 1671223597,
+        "created": 1672101208,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1134,9 +1134,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-jVigW57AG8Cd4JsVyu0Hdrj1",
+        "id": "modelperm-M23IK2xopTJxHSm15M46ehWU",
         "object": "model_permission",
-        "created": 1671223089,
+        "created": 1672101208,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
