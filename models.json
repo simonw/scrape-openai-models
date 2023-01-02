@@ -168,6 +168,30 @@
     "parent": null
   },
   {
+    "id": "ada:ft-personal-2023-01-02-00-42-50",
+    "object": "model",
+    "created": 1672620171,
+    "owned_by": "user-r3e61fpak04cbaokp5buoae4",
+    "permission": [
+      {
+        "id": "snapperm-IEzbR8orGTE375CMNjAXvKgB",
+        "object": "model_permission",
+        "created": 1672620171,
+        "allow_create_engine": true,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": true,
+        "organization": "org-2s2EXgTQ0xpZph33D2POEckd",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "ada:2020-05-03",
+    "parent": "ada:2020-05-03"
+  },
+  {
     "id": "audio-transcribe-001",
     "object": "model",
     "created": 1656447449,
