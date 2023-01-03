@@ -696,6 +696,30 @@
     "parent": null
   },
   {
+    "id": "curie:ft-personal-2023-01-02-01-28-01",
+    "object": "model",
+    "created": 1672622881,
+    "owned_by": "user-r3e61fpak04cbaokp5buoae4",
+    "permission": [
+      {
+        "id": "snapperm-B8YPYzgof6UvJq5WKOqMmpdh",
+        "object": "model_permission",
+        "created": 1672622881,
+        "allow_create_engine": true,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": true,
+        "organization": "org-2s2EXgTQ0xpZph33D2POEckd",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "curie:2020-05-03",
+    "parent": "curie:2020-05-03"
+  },
+  {
     "id": "cushman:2020-05-03",
     "object": "model",
     "created": 1590625110,
