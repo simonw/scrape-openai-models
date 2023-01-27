@@ -216,6 +216,30 @@
     "parent": null
   },
   {
+    "id": "audio-transcribe-deprecated",
+    "object": "model",
+    "created": 1674776185,
+    "owned_by": "openai-internal",
+    "permission": [
+      {
+        "id": "modelperm-IPCtO1a9wW5TDxGCIqy0iVfK",
+        "object": "model_permission",
+        "created": 1674776185,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "audio-transcribe-deprecated",
+    "parent": null
+  },
+  {
     "id": "babbage",
     "object": "model",
     "created": 1649358449,
@@ -1206,9 +1230,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-IIENYUS85ZhLYQJVob19DvYZ",
+        "id": "modelperm-EJq9UWh3v6D433SMEOW42w4M",
         "object": "model_permission",
-        "created": 1674688895,
+        "created": 1674761293,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
