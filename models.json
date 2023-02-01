@@ -192,30 +192,6 @@
     "parent": "ada:2020-05-03"
   },
   {
-    "id": "audio-transcribe-001",
-    "object": "model",
-    "created": 1656447449,
-    "owned_by": "openai",
-    "permission": [
-      {
-        "id": "modelperm-DEyvUa4t6g4mVL1AmmtB0SHO",
-        "object": "model_permission",
-        "created": 1669066355,
-        "allow_create_engine": false,
-        "allow_sampling": true,
-        "allow_logprobs": true,
-        "allow_search_indices": false,
-        "allow_view": true,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "audio-transcribe-001",
-    "parent": null
-  },
-  {
     "id": "audio-transcribe-deprecated",
     "object": "model",
     "created": 1674776185,
@@ -1230,9 +1206,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-1bzc4d8WTSGdYnVUktUwKbQR",
+        "id": "modelperm-QopyJAC2zp7HVkykKnZtFhno",
         "object": "model_permission",
-        "created": 1674963303,
+        "created": 1675136987,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
