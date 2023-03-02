@@ -936,6 +936,54 @@
     "parent": null
   },
   {
+    "id": "gpt-3.5-turbo",
+    "object": "model",
+    "created": 1677610602,
+    "owned_by": "openai",
+    "permission": [
+      {
+        "id": "modelperm-ZErASyl63fhYUeMMk7QKOHAB",
+        "object": "model_permission",
+        "created": 1677691854,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "gpt-3.5-turbo",
+    "parent": null
+  },
+  {
+    "id": "gpt-3.5-turbo-0301",
+    "object": "model",
+    "created": 1677649963,
+    "owned_by": "openai",
+    "permission": [
+      {
+        "id": "modelperm-ms2DpLH5OCOZpUikJ4sRQNkh",
+        "object": "model_permission",
+        "created": 1677691853,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "gpt-3.5-turbo-0301",
+    "parent": null
+  },
+  {
     "id": "if-curie-v2",
     "object": "model",
     "created": 1610745968,
@@ -1206,9 +1254,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-xSu3loBRw1xUWYGbVAhBRrQa",
+        "id": "modelperm-D8gLSj5nntG6Vmx8OjWtqp9w",
         "object": "model_permission",
-        "created": 1677626681,
+        "created": 1677709914,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1629,6 +1677,30 @@
       }
     ],
     "root": "text-similarity-davinci-001",
+    "parent": null
+  },
+  {
+    "id": "whisper-1",
+    "object": "model",
+    "created": 1677532384,
+    "owned_by": "openai-internal",
+    "permission": [
+      {
+        "id": "modelperm-MX888R5RhewPTR12HguE4hM2",
+        "object": "model_permission",
+        "created": 1677691932,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "whisper-1",
     "parent": null
   }
 ]
