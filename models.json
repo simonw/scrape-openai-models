@@ -192,30 +192,6 @@
     "parent": "ada:2020-05-03"
   },
   {
-    "id": "audio-transcribe-deprecated",
-    "object": "model",
-    "created": 1674776185,
-    "owned_by": "openai-internal",
-    "permission": [
-      {
-        "id": "modelperm-IPCtO1a9wW5TDxGCIqy0iVfK",
-        "object": "model_permission",
-        "created": 1674776185,
-        "allow_create_engine": false,
-        "allow_sampling": true,
-        "allow_logprobs": true,
-        "allow_search_indices": false,
-        "allow_view": true,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "audio-transcribe-deprecated",
-    "parent": null
-  },
-  {
     "id": "babbage",
     "object": "model",
     "created": 1649358449,
@@ -942,9 +918,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-QvbW9EnkbwPtWZuEYnCBAMsO",
+        "id": "modelperm-Dr5YlcVrmPHV6ljpZhGHIVs7",
         "object": "model_permission",
-        "created": 1678193854,
+        "created": 1678492572,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -966,9 +942,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-ms2DpLH5OCOZpUikJ4sRQNkh",
+        "id": "modelperm-laQi8qVWWowJwTtnwEIKQEiS",
         "object": "model_permission",
-        "created": 1677691853,
+        "created": 1678492573,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
