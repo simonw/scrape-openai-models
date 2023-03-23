@@ -360,102 +360,6 @@
     "parent": null
   },
   {
-    "id": "canary-ada",
-    "object": "model",
-    "created": 1679443917,
-    "owned_by": "openai",
-    "permission": [
-      {
-        "id": "modelperm-ViOYG5bRl3y5ujMdRckAPEg9",
-        "object": "model_permission",
-        "created": 1679443917,
-        "allow_create_engine": false,
-        "allow_sampling": true,
-        "allow_logprobs": true,
-        "allow_search_indices": true,
-        "allow_view": true,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "canary-ada",
-    "parent": null
-  },
-  {
-    "id": "canary-ada-c6",
-    "object": "model",
-    "created": 1679443915,
-    "owned_by": "openai",
-    "permission": [
-      {
-        "id": "modelperm-Ws0YEGlNefsee2dQFnTNa8FL",
-        "object": "model_permission",
-        "created": 1679443915,
-        "allow_create_engine": false,
-        "allow_sampling": true,
-        "allow_logprobs": true,
-        "allow_search_indices": true,
-        "allow_view": true,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "canary-ada-c6",
-    "parent": null
-  },
-  {
-    "id": "canary-babbage",
-    "object": "model",
-    "created": 1679443915,
-    "owned_by": "openai",
-    "permission": [
-      {
-        "id": "modelperm-mCBaO7VJZN810pGU6i6DR2ea",
-        "object": "model_permission",
-        "created": 1679443915,
-        "allow_create_engine": false,
-        "allow_sampling": true,
-        "allow_logprobs": true,
-        "allow_search_indices": false,
-        "allow_view": true,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "canary-babbage",
-    "parent": null
-  },
-  {
-    "id": "canary-babbage-c6",
-    "object": "model",
-    "created": 1679443915,
-    "owned_by": "openai",
-    "permission": [
-      {
-        "id": "modelperm-TDpsWtNKJz7U33AJFUgbnT4A",
-        "object": "model_permission",
-        "created": 1679443915,
-        "allow_create_engine": false,
-        "allow_sampling": true,
-        "allow_logprobs": true,
-        "allow_search_indices": false,
-        "allow_view": true,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "canary-babbage-c6",
-    "parent": null
-  },
-  {
     "id": "code-cushman-001",
     "object": "model",
     "created": 1656081837,
@@ -1014,9 +918,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-wMukovN9bMr5wAhwDtVmziOS",
+        "id": "modelperm-DI1CytB5VtZGYOu2674ZTVbM",
         "object": "model_permission",
-        "created": 1679442319,
+        "created": 1679529334,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1038,9 +942,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-uYN3DkQoTJYwpNvXsx6DwPoL",
+        "id": "modelperm-6hr9LCe55z5PSuZgN2IMRWaA",
         "object": "model_permission",
-        "created": 1679442321,
+        "created": 1679529313,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1374,9 +1278,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-11XYRd8qhdjcS0OA4fkco19K",
+        "id": "modelperm-BptJFQovWB2rXq80ox1pVvza",
         "object": "model_permission",
-        "created": 1678585020,
+        "created": 1679527838,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
