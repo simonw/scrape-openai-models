@@ -1128,30 +1128,6 @@
     "parent": null
   },
   {
-    "id": "text-chat-davinci-002-plugins-calc",
-    "object": "model",
-    "created": 1678144380,
-    "owned_by": "openai",
-    "permission": [
-      {
-        "id": "modelperm-g75MtNG6Bq62RH5khB8DOi5f",
-        "object": "model_permission",
-        "created": 1679592982,
-        "allow_create_engine": false,
-        "allow_sampling": false,
-        "allow_logprobs": false,
-        "allow_search_indices": false,
-        "allow_view": false,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "text-chat-davinci-002-plugins-calc",
-    "parent": null
-  },
-  {
     "id": "text-curie-001",
     "object": "model",
     "created": 1649364043,
