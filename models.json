@@ -894,9 +894,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-RRufa2xjDsSpXwFamPfXDIbx",
+        "id": "modelperm-8TicxZyEGvfUKtYK4sPO32Ao",
         "object": "model_permission",
-        "created": 1683852531,
+        "created": 1683913990,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -957,6 +957,30 @@
       }
     ],
     "root": "gpt-4-0314",
+    "parent": null
+  },
+  {
+    "id": "haiming-test",
+    "object": "model",
+    "created": 1683907409,
+    "owned_by": "system",
+    "permission": [
+      {
+        "id": "modelperm-RQNGGCvVzoAfoofU4uBGCWOt",
+        "object": "model_permission",
+        "created": 1683907409,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": true,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "haiming-test",
     "parent": null
   },
   {
@@ -1614,9 +1638,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-9qE6EV6Ev1Ub0xtpRVYyCMgz",
+        "id": "modelperm-KlsZlfft3Gma8pI6A8rTnyjs",
         "object": "model_permission",
-        "created": 1683830893,
+        "created": 1683912666,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
