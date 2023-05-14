@@ -960,30 +960,6 @@
     "parent": null
   },
   {
-    "id": "haiming-test",
-    "object": "model",
-    "created": 1683907409,
-    "owned_by": "system",
-    "permission": [
-      {
-        "id": "modelperm-RQNGGCvVzoAfoofU4uBGCWOt",
-        "object": "model_permission",
-        "created": 1683907409,
-        "allow_create_engine": false,
-        "allow_sampling": true,
-        "allow_logprobs": true,
-        "allow_search_indices": true,
-        "allow_view": true,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "haiming-test",
-    "parent": null
-  },
-  {
     "id": "if-curie-v2",
     "object": "model",
     "created": 1610745968,
