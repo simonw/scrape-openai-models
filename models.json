@@ -702,9 +702,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-A5bE4OBuvF3UO8oWhJohrcY8",
+        "id": "modelperm-vXDJwtFoZKeqgwuG1i0eRjFl",
         "object": "model_permission",
-        "created": 1686617585,
+        "created": 1686673921,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -726,9 +726,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-zmLDqQlj6ecmufKtcGpbD2c7",
+        "id": "modelperm-fgf5WqG21QM7pnaHHZRhsqfb",
         "object": "model_permission",
-        "created": 1686273781,
+        "created": 1686673945,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -744,15 +744,87 @@
     "parent": null
   },
   {
+    "id": "gpt-3.5-turbo-0613",
+    "object": "model",
+    "created": 1686587434,
+    "owned_by": "openai",
+    "permission": [
+      {
+        "id": "modelperm-8YthtkHdp9i12DHY5PdCjV61",
+        "object": "model_permission",
+        "created": 1686675077,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "gpt-3.5-turbo-0613",
+    "parent": null
+  },
+  {
+    "id": "gpt-3.5-turbo-16k",
+    "object": "model",
+    "created": 1683758102,
+    "owned_by": "openai-internal",
+    "permission": [
+      {
+        "id": "modelperm-iSLMWKwNcv96M7wUdUk1Xof5",
+        "object": "model_permission",
+        "created": 1686675077,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "gpt-3.5-turbo-16k",
+    "parent": null
+  },
+  {
+    "id": "gpt-3.5-turbo-16k-0613",
+    "object": "model",
+    "created": 1685474247,
+    "owned_by": "openai",
+    "permission": [
+      {
+        "id": "modelperm-RizYeOCRqav9e70KnCJXhMlS",
+        "object": "model_permission",
+        "created": 1686675077,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "gpt-3.5-turbo-16k-0613",
+    "parent": null
+  },
+  {
     "id": "gpt-4",
     "object": "model",
     "created": 1678604602,
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-Fd3hMkFAW570gQURn2IOiP98",
+        "id": "modelperm-7sCp8ygtfObAPzc3SEF5g1T2",
         "object": "model_permission",
-        "created": 1686616346,
+        "created": 1686673860,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
@@ -774,9 +846,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-N09eAL1jRLVvMa8XWUXrZNrY",
+        "id": "modelperm-zYf0qdBhKW2vE0yU8vbJgEiH",
         "object": "model_permission",
-        "created": 1686616346,
+        "created": 1686673860,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
@@ -789,6 +861,30 @@
       }
     ],
     "root": "gpt-4-0314",
+    "parent": null
+  },
+  {
+    "id": "gpt-4-0613",
+    "object": "model",
+    "created": 1686588896,
+    "owned_by": "openai",
+    "permission": [
+      {
+        "id": "modelperm-GS4QrVN8qY8Ip1nTL009X9jY",
+        "object": "model_permission",
+        "created": 1686682503,
+        "allow_create_engine": false,
+        "allow_sampling": false,
+        "allow_logprobs": false,
+        "allow_search_indices": false,
+        "allow_view": false,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "gpt-4-0613",
     "parent": null
   },
   {
