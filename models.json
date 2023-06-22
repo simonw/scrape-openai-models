@@ -702,9 +702,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-A2ARGMXzpSqcGmTfXf1jpnFh",
+        "id": "modelperm-Hwxnd8cRFWsW3ohuKkO7scQa",
         "object": "model_permission",
-        "created": 1687292123,
+        "created": 1687384303,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -726,9 +726,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-xA972FxHevT6iQUsPlMKVwDU",
+        "id": "modelperm-pQwhKegP3fnIC2qnmuA8tEhq",
         "object": "model_permission",
-        "created": 1686902108,
+        "created": 1687384275,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -750,9 +750,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-8NTe6DBDMj9BJf9rJ4eKhgoW",
+        "id": "modelperm-4LMjvnTrMtQH6DRJDyARcjRv",
         "object": "model_permission",
-        "created": 1686767378,
+        "created": 1687377203,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -774,9 +774,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-LMK1z45vFJF9tVUvKb3pZfMG",
+        "id": "modelperm-qJPOwKmF0nODbX2vuRgdUnXT",
         "object": "model_permission",
-        "created": 1686799823,
+        "created": 1687377282,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -798,9 +798,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-6DweDmARWE7duRGo6ygtJvQE",
+        "id": "modelperm-frXtfLMXYirfJ90w5WLZ2m0R",
         "object": "model_permission",
-        "created": 1687292256,
+        "created": 1687377203,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -1062,9 +1062,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-Zn6DCHbetWQvnEAkktCo6UDP",
+        "id": "modelperm-xEFbxWOyWdWsBvTmOZbkrT82",
         "object": "model_permission",
-        "created": 1686354304,
+        "created": 1687349126,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
