@@ -846,9 +846,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-EQNCn2xwJs1cdnwk7Ywu3gqP",
+        "id": "modelperm-tzDBunpcuXprdwTTUepe3YIN",
         "object": "model_permission",
-        "created": 1688666303,
+        "created": 1688711426,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
