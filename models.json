@@ -192,6 +192,30 @@
     "parent": null
   },
   {
+    "id": "babbage-002",
+    "object": "model",
+    "created": 1692634615,
+    "owned_by": "system",
+    "permission": [
+      {
+        "id": "modelperm-tC8uL3ohDEVSzUvcgZCv33gV",
+        "object": "model_permission",
+        "created": 1692720928,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "babbage-002",
+    "parent": null
+  },
+  {
     "id": "babbage-code-search-code",
     "object": "model",
     "created": 1651172509,
@@ -600,6 +624,30 @@
     "parent": null
   },
   {
+    "id": "davinci-002",
+    "object": "model",
+    "created": 1692634301,
+    "owned_by": "system",
+    "permission": [
+      {
+        "id": "modelperm-i5MgZCdMtQ4dZeuGaY9cZ6zG",
+        "object": "model_permission",
+        "created": 1692720923,
+        "allow_create_engine": false,
+        "allow_sampling": true,
+        "allow_logprobs": true,
+        "allow_search_indices": false,
+        "allow_view": true,
+        "allow_fine_tuning": false,
+        "organization": "*",
+        "group": null,
+        "is_blocking": false
+      }
+    ],
+    "root": "davinci-002",
+    "parent": null
+  },
+  {
     "id": "davinci-instruct-beta",
     "object": "model",
     "created": 1649364042,
@@ -822,9 +870,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-cOSx57rPrEzolEUD2QSSACPS",
+        "id": "modelperm-rqN4ZNfRzrxivtkjAjS74ai1",
         "object": "model_permission",
-        "created": 1692411452,
+        "created": 1692740383,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
