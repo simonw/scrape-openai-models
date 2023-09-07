@@ -750,9 +750,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-aRL68Vu37kh2Z0wi2tmPhGZT",
+        "id": "modelperm-3p6Ac4peZDCsDHh1JQeTp7Vd",
         "object": "model_permission",
-        "created": 1692458060,
+        "created": 1694042139,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -870,9 +870,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-tsET7VSHRhiQHP5Qz6TU1FBb",
+        "id": "modelperm-G6ndspxsjtgMB7CckSiLJ2x9",
         "object": "model_permission",
-        "created": 1693330062,
+        "created": 1694036531,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
@@ -894,9 +894,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-AK02E3SrXhuSjwJAWvcSvR3q",
+        "id": "modelperm-Psl7jcYvyYvMWEDktWFtA2F6",
         "object": "model_permission",
-        "created": 1693536116,
+        "created": 1694026078,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
@@ -918,9 +918,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-XgbDsLBjXy3aVd6xZvWJFmW2",
+        "id": "modelperm-aIXpJwca8p09xGoYTdwj5xMU",
         "object": "model_permission",
-        "created": 1693537171,
+        "created": 1694036559,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
