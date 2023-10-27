@@ -606,9 +606,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-RcfCH2MkO5NP9C7wx6kdYnIT",
+        "id": "modelperm-y6gcUIF10Txa9oYyOy86r6wq",
         "object": "model_permission",
-        "created": 1694819047,
+        "created": 1698359395,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
@@ -741,30 +741,6 @@
       }
     ],
     "root": "davinci-similarity",
-    "parent": null
-  },
-  {
-    "id": "fanw-json-eval",
-    "object": "model",
-    "created": 1698101835,
-    "owned_by": "system",
-    "permission": [
-      {
-        "id": "modelperm-JwZcttDMZoniG6XhBGPyviMF",
-        "object": "model_permission",
-        "created": 1698177224,
-        "allow_create_engine": false,
-        "allow_sampling": false,
-        "allow_logprobs": false,
-        "allow_search_indices": false,
-        "allow_view": false,
-        "allow_fine_tuning": false,
-        "organization": "*",
-        "group": null,
-        "is_blocking": false
-      }
-    ],
-    "root": "fanw-json-eval",
     "parent": null
   },
   {
@@ -990,9 +966,9 @@
     "owned_by": "openai",
     "permission": [
       {
-        "id": "modelperm-JZT41eqRnMHSzNAIeIjK0kpF",
+        "id": "modelperm-CP5aLxKWWcu8oobx5YeIIV1E",
         "object": "model_permission",
-        "created": 1698277322,
+        "created": 1698368683,
         "allow_create_engine": false,
         "allow_sampling": false,
         "allow_logprobs": false,
@@ -1182,9 +1158,9 @@
     "owned_by": "openai-internal",
     "permission": [
       {
-        "id": "modelperm-iHRhxPwYPqj6AJE3PFzga9rD",
+        "id": "modelperm-FNUaYBtQjesvQWilxRkyxTO0",
         "object": "model_permission",
-        "created": 1695144609,
+        "created": 1698368554,
         "allow_create_engine": false,
         "allow_sampling": true,
         "allow_logprobs": true,
