@@ -156,6 +156,12 @@
     "owned_by": "system"
   },
   {
+    "id": "dall-e-3",
+    "object": "model",
+    "created": 1698785189,
+    "owned_by": "system"
+  },
+  {
     "id": "davinci",
     "object": "model",
     "created": 1649359874,
@@ -210,6 +216,12 @@
     "owned_by": "openai"
   },
   {
+    "id": "gpt-3.5-turbo-1106",
+    "object": "model",
+    "created": 1698959748,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-3.5-turbo-16k",
     "object": "model",
     "created": 1683758102,
@@ -250,6 +262,18 @@
     "object": "model",
     "created": 1686588896,
     "owned_by": "openai"
+  },
+  {
+    "id": "gpt-4-1106-preview",
+    "object": "model",
+    "created": 1698957206,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4-vision-preview",
+    "object": "model",
+    "created": 1698894917,
+    "owned_by": "system"
   },
   {
     "id": "text-ada-001",
@@ -370,6 +394,30 @@
     "object": "model",
     "created": 1651172505,
     "owned_by": "openai-dev"
+  },
+  {
+    "id": "tts-1",
+    "object": "model",
+    "created": 1681940951,
+    "owned_by": "openai-internal"
+  },
+  {
+    "id": "tts-1-1106",
+    "object": "model",
+    "created": 1699053241,
+    "owned_by": "system"
+  },
+  {
+    "id": "tts-1-hd",
+    "object": "model",
+    "created": 1699046015,
+    "owned_by": "system"
+  },
+  {
+    "id": "tts-1-hd-1106",
+    "object": "model",
+    "created": 1699053533,
+    "owned_by": "system"
   },
   {
     "id": "whisper-1",
