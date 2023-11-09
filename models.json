@@ -84,6 +84,12 @@
     "owned_by": "openai-dev"
   },
   {
+    "id": "canary-tts",
+    "object": "model",
+    "created": 1699492935,
+    "owned_by": "system"
+  },
+  {
     "id": "code-davinci-edit-001",
     "object": "model",
     "created": 1649880484,
