@@ -90,6 +90,12 @@
     "owned_by": "system"
   },
   {
+    "id": "canary-whisper",
+    "object": "model",
+    "created": 1699656801,
+    "owned_by": "system"
+  },
+  {
     "id": "code-davinci-edit-001",
     "object": "model",
     "created": 1649880484,
