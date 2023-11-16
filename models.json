@@ -436,5 +436,11 @@
     "object": "model",
     "created": 1677532384,
     "owned_by": "openai-internal"
+  },
+  {
+    "id": "whisper-1-1p",
+    "object": "model",
+    "created": 1700094243,
+    "owned_by": "system"
   }
 ]
