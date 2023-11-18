@@ -168,12 +168,6 @@
     "owned_by": "system"
   },
   {
-    "id": "dall-e-3",
-    "object": "model",
-    "created": 1698785189,
-    "owned_by": "system"
-  },
-  {
     "id": "davinci",
     "object": "model",
     "created": 1649359874,
@@ -436,11 +430,5 @@
     "object": "model",
     "created": 1677532384,
     "owned_by": "openai-internal"
-  },
-  {
-    "id": "whisper-1-1p",
-    "object": "model",
-    "created": 1700094243,
-    "owned_by": "system"
   }
 ]
