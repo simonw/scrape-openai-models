@@ -156,12 +156,6 @@
     "owned_by": "system"
   },
   {
-    "id": "dall-e-3",
-    "object": "model",
-    "created": 1698785189,
-    "owned_by": "system"
-  },
-  {
     "id": "davinci",
     "object": "model",
     "created": 1649359874,
