@@ -1,11 +1,5 @@
 [
   {
-    "id": "ada",
-    "object": "model",
-    "created": 1649357491,
-    "owned_by": "openai"
-  },
-  {
     "id": "ada-code-search-code",
     "object": "model",
     "created": 1651172505,
@@ -30,12 +24,6 @@
     "owned_by": "openai-dev"
   },
   {
-    "id": "ada-similarity",
-    "object": "model",
-    "created": 1651172507,
-    "owned_by": "openai-dev"
-  },
-  {
     "id": "ada:ft-personal-2023-01-02-00-42-50",
     "object": "model",
     "created": 1672620171,
@@ -48,18 +36,6 @@
     "owned_by": "system"
   },
   {
-    "id": "babbage-code-search-code",
-    "object": "model",
-    "created": 1651172509,
-    "owned_by": "openai-dev"
-  },
-  {
-    "id": "babbage-code-search-text",
-    "object": "model",
-    "created": 1651172509,
-    "owned_by": "openai-dev"
-  },
-  {
     "id": "babbage-search-document",
     "object": "model",
     "created": 1651172510,
@@ -70,18 +46,6 @@
     "object": "model",
     "created": 1651172509,
     "owned_by": "openai-dev"
-  },
-  {
-    "id": "babbage-similarity",
-    "object": "model",
-    "created": 1651172505,
-    "owned_by": "openai-dev"
-  },
-  {
-    "id": "curie",
-    "object": "model",
-    "created": 1649359874,
-    "owned_by": "openai"
   },
   {
     "id": "curie-search-document",
@@ -129,12 +93,6 @@
     "id": "davinci-search-query",
     "object": "model",
     "created": 1651172505,
-    "owned_by": "openai-dev"
-  },
-  {
-    "id": "davinci-similarity",
-    "object": "model",
-    "created": 1651172509,
     "owned_by": "openai-dev"
   },
   {
