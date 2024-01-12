@@ -150,12 +150,6 @@
     "owned_by": "openai"
   },
   {
-    "id": "gpt-4-0314",
-    "object": "model",
-    "created": 1687882410,
-    "owned_by": "openai"
-  },
-  {
     "id": "gpt-4-0613",
     "object": "model",
     "created": 1686588896,
