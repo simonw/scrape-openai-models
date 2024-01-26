@@ -90,6 +90,12 @@
     "owned_by": "openai"
   },
   {
+    "id": "gpt-4-0125-preview",
+    "object": "model",
+    "created": 1706037612,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4-0613",
     "object": "model",
     "created": 1686588896,
@@ -102,9 +108,27 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4-turbo-preview",
+    "object": "model",
+    "created": 1706037777,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4-vision-preview",
     "object": "model",
     "created": 1698894917,
+    "owned_by": "system"
+  },
+  {
+    "id": "text-embedding-3-large",
+    "object": "model",
+    "created": 1705953180,
+    "owned_by": "system"
+  },
+  {
+    "id": "text-embedding-3-small",
+    "object": "model",
+    "created": 1705948997,
     "owned_by": "system"
   },
   {
