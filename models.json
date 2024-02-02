@@ -42,6 +42,12 @@
     "owned_by": "openai"
   },
   {
+    "id": "gpt-3.5-turbo-0125",
+    "object": "model",
+    "created": 1706048358,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-3.5-turbo-0301",
     "object": "model",
     "created": 1677649963,
