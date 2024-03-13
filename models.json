@@ -120,6 +120,12 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4-vision-jordantest",
+    "object": "model",
+    "created": 1710283520,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4-vision-preview",
     "object": "model",
     "created": 1698894917,
