@@ -114,6 +114,12 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4-1106-vision-preview",
+    "object": "model",
+    "created": 1711473033,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4-turbo-preview",
     "object": "model",
     "created": 1706037777,
