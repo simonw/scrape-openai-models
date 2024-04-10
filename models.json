@@ -120,6 +120,18 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4-turbo",
+    "object": "model",
+    "created": 1712361441,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4-turbo-2024-04-09",
+    "object": "model",
+    "created": 1712601677,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4-turbo-preview",
     "object": "model",
     "created": 1706037777,
