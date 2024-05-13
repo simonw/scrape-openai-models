@@ -144,6 +144,18 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4o",
+    "object": "model",
+    "created": 1715367049,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-2024-05-13",
+    "object": "model",
+    "created": 1715368132,
+    "owned_by": "system"
+  },
+  {
     "id": "text-embedding-3-large",
     "object": "model",
     "created": 1705953180,
