@@ -156,12 +156,6 @@
     "owned_by": "system"
   },
   {
-    "id": "gpt-4o-test-shared",
-    "object": "model",
-    "created": 1716228416,
-    "owned_by": "system"
-  },
-  {
     "id": "text-embedding-3-large",
     "object": "model",
     "created": 1705953180,
