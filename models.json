@@ -48,18 +48,6 @@
     "owned_by": "system"
   },
   {
-    "id": "gpt-3.5-turbo-0301",
-    "object": "model",
-    "created": 1677649963,
-    "owned_by": "openai"
-  },
-  {
-    "id": "gpt-3.5-turbo-0613",
-    "object": "model",
-    "created": 1686587434,
-    "owned_by": "openai"
-  },
-  {
     "id": "gpt-3.5-turbo-1106",
     "object": "model",
     "created": 1698959748,
@@ -70,12 +58,6 @@
     "object": "model",
     "created": 1683758102,
     "owned_by": "openai-internal"
-  },
-  {
-    "id": "gpt-3.5-turbo-16k-0613",
-    "object": "model",
-    "created": 1685474247,
-    "owned_by": "openai"
   },
   {
     "id": "gpt-3.5-turbo-instruct",
@@ -114,12 +96,6 @@
     "owned_by": "system"
   },
   {
-    "id": "gpt-4-1106-vision-preview",
-    "object": "model",
-    "created": 1711473033,
-    "owned_by": "system"
-  },
-  {
     "id": "gpt-4-turbo",
     "object": "model",
     "created": 1712361441,
@@ -135,12 +111,6 @@
     "id": "gpt-4-turbo-preview",
     "object": "model",
     "created": 1706037777,
-    "owned_by": "system"
-  },
-  {
-    "id": "gpt-4-vision-preview",
-    "object": "model",
-    "created": 1698894917,
     "owned_by": "system"
   },
   {
