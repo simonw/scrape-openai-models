@@ -126,6 +126,12 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4o-2024-08-06",
+    "object": "model",
+    "created": 1722814719,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4o-mini",
     "object": "model",
     "created": 1721172741,
