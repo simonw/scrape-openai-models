@@ -12,6 +12,12 @@
     "owned_by": "system"
   },
   {
+    "id": "chatgpt-4o-latest",
+    "object": "model",
+    "created": 1723515131,
+    "owned_by": "system"
+  },
+  {
     "id": "curie:ft-personal-2023-01-02-01-28-01",
     "object": "model",
     "created": 1672622881,
