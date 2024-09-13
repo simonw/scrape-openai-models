@@ -150,6 +150,30 @@
     "owned_by": "system"
   },
   {
+    "id": "o1-mini",
+    "object": "model",
+    "created": 1725649008,
+    "owned_by": "system"
+  },
+  {
+    "id": "o1-mini-2024-09-12",
+    "object": "model",
+    "created": 1725648979,
+    "owned_by": "system"
+  },
+  {
+    "id": "o1-preview",
+    "object": "model",
+    "created": 1725648897,
+    "owned_by": "system"
+  },
+  {
+    "id": "o1-preview-2024-09-12",
+    "object": "model",
+    "created": 1725648865,
+    "owned_by": "system"
+  },
+  {
     "id": "text-embedding-3-large",
     "object": "model",
     "created": 1705953180,
