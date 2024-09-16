@@ -150,6 +150,12 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt4o-0806-loco-vm",
+    "object": "model",
+    "created": 1726439215,
+    "owned_by": "system"
+  },
+  {
     "id": "o1-mini",
     "object": "model",
     "created": 1725649008,
