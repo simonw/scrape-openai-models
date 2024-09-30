@@ -150,12 +150,6 @@
     "owned_by": "system"
   },
   {
-    "id": "gpt4t-lu-test",
-    "object": "model",
-    "created": 1727561458,
-    "owned_by": "system"
-  },
-  {
     "id": "o1-mini",
     "object": "model",
     "created": 1725649008,
