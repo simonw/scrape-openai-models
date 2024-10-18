@@ -138,6 +138,18 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4o-audio-preview",
+    "object": "model",
+    "created": 1727460443,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-audio-preview-2024-10-01",
+    "object": "model",
+    "created": 1727389042,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4o-mini",
     "object": "model",
     "created": 1721172741,
