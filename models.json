@@ -204,6 +204,18 @@
     "owned_by": "system"
   },
   {
+    "id": "omni-moderation-2024-09-26",
+    "object": "model",
+    "created": 1732734466,
+    "owned_by": "system"
+  },
+  {
+    "id": "omni-moderation-latest",
+    "object": "model",
+    "created": 1731689265,
+    "owned_by": "system"
+  },
+  {
     "id": "text-embedding-3-large",
     "object": "model",
     "created": 1705953180,
