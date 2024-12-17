@@ -156,6 +156,12 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4o-audio-preview-2024-12-17",
+    "object": "model",
+    "created": 1734034239,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4o-mini",
     "object": "model",
     "created": 1721172741,
@@ -168,6 +174,18 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4o-mini-realtime-preview",
+    "object": "model",
+    "created": 1734387380,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-mini-realtime-preview-2024-12-17",
+    "object": "model",
+    "created": 1734112601,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4o-realtime-preview",
     "object": "model",
     "created": 1727659998,
@@ -177,6 +195,12 @@
     "id": "gpt-4o-realtime-preview-2024-10-01",
     "object": "model",
     "created": 1727131766,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-realtime-preview-2024-12-17",
+    "object": "model",
+    "created": 1733945430,
     "owned_by": "system"
   },
   {
