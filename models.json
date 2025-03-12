@@ -18,6 +18,18 @@
     "owned_by": "system"
   },
   {
+    "id": "computer-use-preview",
+    "object": "model",
+    "created": 1734655677,
+    "owned_by": "system"
+  },
+  {
+    "id": "computer-use-preview-2025-03-11",
+    "object": "model",
+    "created": 1741377021,
+    "owned_by": "system"
+  },
+  {
     "id": "curie:ft-personal-2023-01-02-01-28-01",
     "object": "model",
     "created": 1672622881,
@@ -210,6 +222,18 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4o-mini-search-preview",
+    "object": "model",
+    "created": 1741391161,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-mini-search-preview-2025-03-11",
+    "object": "model",
+    "created": 1741390858,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4o-realtime-preview",
     "object": "model",
     "created": 1727659998,
@@ -225,6 +249,18 @@
     "id": "gpt-4o-realtime-preview-2024-12-17",
     "object": "model",
     "created": 1733945430,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-search-preview",
+    "object": "model",
+    "created": 1741388720,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-search-preview-2025-03-11",
+    "object": "model",
+    "created": 1741388170,
     "owned_by": "system"
   },
   {
