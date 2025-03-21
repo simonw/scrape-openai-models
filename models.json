@@ -234,6 +234,18 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4o-mini-transcribe",
+    "object": "model",
+    "created": 1742068596,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-mini-tts",
+    "object": "model",
+    "created": 1742403959,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4o-realtime-preview",
     "object": "model",
     "created": 1727659998,
@@ -261,6 +273,12 @@
     "id": "gpt-4o-search-preview-2025-03-11",
     "object": "model",
     "created": 1741388170,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4o-transcribe",
+    "object": "model",
+    "created": 1742068463,
     "owned_by": "system"
   },
   {
