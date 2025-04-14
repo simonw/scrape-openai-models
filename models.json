@@ -132,6 +132,42 @@
     "owned_by": "system"
   },
   {
+    "id": "gpt-4.1",
+    "object": "model",
+    "created": 1744316542,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4.1-2025-04-14",
+    "object": "model",
+    "created": 1744315746,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4.1-mini",
+    "object": "model",
+    "created": 1744318173,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4.1-mini-2025-04-14",
+    "object": "model",
+    "created": 1744317547,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4.1-nano",
+    "object": "model",
+    "created": 1744321707,
+    "owned_by": "system"
+  },
+  {
+    "id": "gpt-4.1-nano-2025-04-14",
+    "object": "model",
+    "created": 1744321025,
+    "owned_by": "system"
+  },
+  {
     "id": "gpt-4.5-preview",
     "object": "model",
     "created": 1740623059,
