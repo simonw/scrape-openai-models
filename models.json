@@ -390,6 +390,18 @@
     "owned_by": "system"
   },
   {
+    "id": "o4-mini",
+    "object": "model",
+    "created": 1744225351,
+    "owned_by": "system"
+  },
+  {
+    "id": "o4-mini-2025-04-16",
+    "object": "model",
+    "created": 1744133506,
+    "owned_by": "system"
+  },
+  {
     "id": "omni-moderation-2024-09-26",
     "object": "model",
     "created": 1732734466,
