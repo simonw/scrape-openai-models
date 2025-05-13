@@ -396,6 +396,12 @@
     "owned_by": "system"
   },
   {
+    "id": "o3-mini-2025-01-31-api-ev3-prod",
+    "object": "model",
+    "created": 1744411430,
+    "owned_by": "system"
+  },
+  {
     "id": "o4-mini",
     "object": "model",
     "created": 1744225351,
