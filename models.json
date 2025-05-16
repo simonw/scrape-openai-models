@@ -18,6 +18,12 @@
     "owned_by": "system"
   },
   {
+    "id": "codex-mini-latest",
+    "object": "model",
+    "created": 1746673257,
+    "owned_by": "system"
+  },
+  {
     "id": "computer-use-preview",
     "object": "model",
     "created": 1734655677,
