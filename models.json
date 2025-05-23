@@ -6,12 +6,6 @@
     "owned_by": "user-r3e61fpak04cbaokp5buoae4"
   },
   {
-    "id": "adamtart-gpt-4.1-mini-2025-04-14",
-    "object": "model",
-    "created": 1748020246,
-    "owned_by": "system"
-  },
-  {
     "id": "babbage-002",
     "object": "model",
     "created": 1692634615,
