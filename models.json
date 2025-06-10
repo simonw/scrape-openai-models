@@ -414,6 +414,18 @@
     "owned_by": "system"
   },
   {
+    "id": "o3-pro",
+    "object": "model",
+    "created": 1748475349,
+    "owned_by": "system"
+  },
+  {
+    "id": "o3-pro-2025-06-10",
+    "object": "model",
+    "created": 1749166761,
+    "owned_by": "system"
+  },
+  {
     "id": "o4-mini",
     "object": "model",
     "created": 1744225351,
