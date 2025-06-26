@@ -450,6 +450,18 @@
     "owned_by": "system"
   },
   {
+    "id": "o4-mini-deep-research",
+    "object": "model",
+    "created": 1749685485,
+    "owned_by": "system"
+  },
+  {
+    "id": "o4-mini-deep-research-2025-06-26",
+    "object": "model",
+    "created": 1750866121,
+    "owned_by": "system"
+  },
+  {
     "id": "omni-moderation-2024-09-26",
     "object": "model",
     "created": 1732734466,
