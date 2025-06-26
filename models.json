@@ -402,6 +402,18 @@
     "owned_by": "system"
   },
   {
+    "id": "o3-deep-research",
+    "object": "model",
+    "created": 1749840121,
+    "owned_by": "system"
+  },
+  {
+    "id": "o3-deep-research-2025-06-26",
+    "object": "model",
+    "created": 1750865219,
+    "owned_by": "system"
+  },
+  {
     "id": "o3-mini",
     "object": "model",
     "created": 1737146383,
